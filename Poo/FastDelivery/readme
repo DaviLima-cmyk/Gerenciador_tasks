@@ -1,0 +1,20 @@
+criacao de projeto de FastDelivery,com Clientes,entregadores,pedidos e mais;
+
+recursos:
+
+--> Separacao em camadas
+--> Encapsulamento
+--> Heranca
+--> Interface
+--> Abstracao
+--> Arquitetura escalavel
+--> Polimorfismo
+--> reutilizacao de codigo
+
+Ferraments ultilizadas:
+
+--> Git
+--> GitHub
+--> Vscode
+--> Python
+ 
